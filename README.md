@@ -1,5 +1,4 @@
 # ydata-profiling
-
 [![Build Status](https://github.com/ydataai/pandas-profiling/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/ydataai/pandas-profiling/actions/workflows/tests.yml)
 [![PyPI download month](https://img.shields.io/pypi/dm/ydata-profiling.svg)](https://pypi.python.org/pypi/ydata-profiling/)
 [![](https://pepy.tech/badge/pandas-profiling)](https://pypi.org/project/ydata-profiling/)
